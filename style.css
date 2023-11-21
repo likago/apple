@@ -1,0 +1,22 @@
+header {
+    background-color: #f2f2f2;
+}
+.header-container {
+    max-width: 1024px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+header img {
+    width: 30px;
+}
+.header-button1 {
+    width: 150px;
+    height: 78px;
+    display: flex;
+    background-color: #ffffff;
+}
+.header-button2 button{
+    background-color: #000000;
+    color: #ffffff;
+}
